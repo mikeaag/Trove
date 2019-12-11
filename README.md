@@ -1,2 +1,2 @@
 # Trove
-An asset tracking application written in C#
+An asset tracking application written in PHP and Laravel
